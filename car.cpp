@@ -1,8 +1,6 @@
 #include <iostream>
 #include <conio.h> // For _getch() and kbhit()
-
 using namespace std;
-
 // Structure to represent each car
 struct Car {
     int position;
